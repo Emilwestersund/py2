@@ -1,0 +1,16 @@
+04495: Tid brukt til ulike medier en gjennomsnittsdag (minutter), etter medietype, statistikkvariabel og år;;;;;
+;;;;;
+medietype;2019;2020;2021;2022;2023
+Papiravis;9;10;8;10;9
+TV;78;..;57;..;74
+Radio;65;..;59;53;52
+Lydmedier;50;61;64;75;76
+Bøker;13;13;12;17;17
+Tidsskrift;2;1;1;..;..
+Videomedier;44;56;58;83;81
+Internett;178;202;218;239;249
+Digitale spill;29;30;32;..;31
+Videoklipp;.;.;.;.;42
+Ukeblad;1;2;1;..;..
+Tegneserieblad;1;1;1;..;..
+Hjemme-PC;..;..;..;..;..
